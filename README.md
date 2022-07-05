@@ -3,6 +3,6 @@
 
 |Test name|original link|C++|python|
 |----------------|---------------------------------------|-----|-----|
-|group word checker |[https://www.acmicpc.net/problem/1316](https://www.acmicpc.net/problem/1316)|- [X]|- [ ]|
-|find decimal|[https://www.acmicpc.net/problem/1978](https://www.acmicpc.net/problem/1978)|- [ ]|- []|
+|group word checker |[https://www.acmicpc.net/problem/1316](https://www.acmicpc.net/problem/1316)|:heavy_check_mark:|:white_check_mark:|
+|find decimal|[https://www.acmicpc.net/problem/1978](https://www.acmicpc.net/problem/1978)|:heavy_check_mark:|:white_check_mark:|
 
