@@ -8,4 +8,4 @@
 |[group word checker](./group_world_checker)|[https://www.acmicpc.net/problem/1316](https://www.acmicpc.net/problem/1316)|:heavy_check_mark:||
 |find decimal|[https://www.acmicpc.net/problem/1978](https://www.acmicpc.net/problem/1978)||:heavy_check_mark:|
 |Sort inside|[https://www.acmicpc.net/problem/1427](https://www.acmicpc.net/problem/1427)|:heavy_check_mark:|:heavy_check_mark:|
-|[polynomino](./polynomino)|[https://www.acmicpc.net/problem/1343](https://www.acmicpc.net/problem/1343)||
+|[polynomino](./polynomino)|[https://www.acmicpc.net/problem/1343](https://www.acmicpc.net/problem/1343)||:heavy_check_mark:|
