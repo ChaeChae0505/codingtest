@@ -9,3 +9,4 @@
 |find decimal|[https://www.acmicpc.net/problem/1978](https://www.acmicpc.net/problem/1978)||:heavy_check_mark:|
 |Sort inside|[https://www.acmicpc.net/problem/1427](https://www.acmicpc.net/problem/1427)|:heavy_check_mark:|:heavy_check_mark:|
 |[polynomino](./polynomino)|[https://www.acmicpc.net/problem/1343](https://www.acmicpc.net/problem/1343)||:heavy_check_mark:|
+|[movie shom](./movie_shom)|[https://www.acmicpc.net/problem/1436](https://www.acmicpc.net/problem/1436)|||
