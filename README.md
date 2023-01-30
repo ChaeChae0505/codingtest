@@ -1,7 +1,7 @@
 ## Purpose
 - Python으로 만들었던 project들 C++ 로 만들 수 있을 때까지!
 - 하루에 하나라도 꾸준히! 근력도 중요하지만 지구력을 키우자? 맞는 말일까....?
-- 문법!-> issues
+- 문법 새로 알게된 것들!-> [issues](https://github.com/ChaeChae0505/codingtest/issues)
 
 |Test name|original link|C++|python|
 |----------------|---------------------------------------|-----|-----|
